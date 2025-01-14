@@ -87,7 +87,7 @@ proxy-providers:
     path: ./proxy_provider/Akun1.yaml
     health-check:
       enable: true
-      url: 'http://cp.cloudflare.com/generate_204'
+      url: 'https://shorturl.at/u9AJe'
       interval: 2400
 rules:
   - MATCH,GLOBAL
